@@ -1,3 +1,0 @@
-TABLE_NAME = 'NEED-TABLE-NAME'
-SENDER_EMAIL = 'NEED-SENDER-EMAIL'
-SECRET_KEY = 'change-for-production!'

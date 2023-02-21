@@ -1,7 +1,0 @@
-{
-  "transcriptionMediaLocation": "DOC-EXAMPLE-BUCKET",
-  "transcriptionJobName": "testTranscriptionJobName",
-  "outputLocation": "DOC-EXAMPLE-BUCKET2",
-  "medicalTranscriptionJobName": "testMedicalTranscriptionJobName",
-  "customVocabularyName": "example_vocabulary_name"
-}
